@@ -11,3 +11,5 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
 https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
 
 THOUGH WE HAVE USED BOTH COUNT VECTORISER AND TF-IDF FOR THIS PURPOSE AND COMPARED  RESULTS AS SEEN IN .ipynb file . 
+
+https://www.linkedin.com/pulse/count-vectorizers-vs-tfidf-natural-language-processing-sheel-saket
